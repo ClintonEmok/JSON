@@ -1,11 +1,5 @@
 {
   "posts": [
-   {
-      "id": 0,
-      "events": 281,
-      "picture": "http://placehold.it/32x32",
-      "gameTitle": "Tekken"
-    },
     {
       "id": 1,
       "events": 297,
