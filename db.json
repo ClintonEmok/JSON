@@ -65,6 +65,21 @@
       "id": 13,
       "title": "Rocket League",
       "events" : 35
+    },
+     {
+      "id": 14,
+      "title": "Rainbow Six Siege",
+      "events" : 38
+    },
+     {
+      "id": 15,
+      "title": "Counter-Strike: Global Offense ",
+      "events" : 654
+    },
+     {
+      "id": 16,
+      "title": "Valorant",
+      "events" : 42
     }
     
     
